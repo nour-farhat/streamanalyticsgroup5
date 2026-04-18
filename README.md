@@ -41,10 +41,10 @@ This Streamlit Dashboard
 
 ## Data feeds
 
-**Feed A — Orders** (`group_5_orders`)
+**Feed A: Orders** (`group_5_orders`)
 Events: `CREATED → ACCEPTED → PREP_STARTED → READY → PICKED_UP → DELIVERED / CANCELLED`
 
-**Feed B — Couriers** (`group_5_couriers`)
+**Feed B: Couriers** (`group_5_couriers`)
 Events: `ONLINE · OFFLINE · LOCATION · ASSIGNED · UNASSIGNED`
 Statuses: `IDLE · EN_ROUTE_TO_RESTAURANT · WAITING · EN_ROUTE_TO_CUSTOMER · OFFLINE`
 
