@@ -3,8 +3,7 @@
 
 Live dashboard visualising real-time insights from a food delivery platform streaming pipeline.
 
-**Live app:** [https://streamanalyticsgroup5.streamlit.app](https://streamanalyticsgroup5.streamlit.app)
-
+**Live app:** https://streamanalyticsmiletone2group5.streamlit.app/
 ---
 
 ## What this dashboard shows
