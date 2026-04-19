@@ -341,7 +341,7 @@ def pie_layout(height=400):
 
 # ── Data loader ───────────────────────────────────────────────────────────────
 ACCOUNT_NAME   = "iesstsabbadbaa"
-ACCOUNT_KEY    = "TZoXWmij7SjGyogaWJYIi179/BrsUcyWcPE5XleNTXI4Wqwak9JrkOSpNXzM88w39j5sjxupYtX6+AStInJJfQ=="
+ACCOUNT_KEY    = "GfD8mpJmqw6gTqzyRpmV5tbHZ7RP1xkiO9X9hgmaMTdnHL1PL62AVmlejOmhHPFkBr2Pfl9DvmUC+AStYJXlzA=="
 CONTAINER_NAME = "group5"
 
 @st.cache_data(ttl=15)
